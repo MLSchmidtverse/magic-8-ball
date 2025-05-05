@@ -22,12 +22,12 @@ And here we are. This project is a reminder that:
 
 ## 🚀 Try it out
 
-👉 [Click here to try the app live](https://your-app-url.streamlit.app)  
+👉 [Click here to try the app live](https://magic-8-ball-mls.streamlit.app)  
 
 Or run it locally:
 
 ```bash
-git clone https://github.com/yourusername/magic-8-ball
+git clone https://github.com/MLSchmidtverse/magic-8-ball
 cd magic-8-ball
 pip install -r requirements.txt
 streamlit run app.py
