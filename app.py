@@ -39,3 +39,13 @@ if st.button("Shake!"):
         st.write(f"### 🧿 *{response}*")
     else:
         st.warning("Please enter a question first.")
+
+st.markdown(
+    """
+    <hr style="margin-top: 2em; margin-bottom: 0.5em;">
+    <div style='text-align: center; color: gray; font-size: small;'>
+        Made with ❤️ by Marie-Luise Schmidt · <a href="https://github.com/MLSchmidtverse" target="_blank" style="color: gray;">GitHub</a> · <a href="https://www.linkedin.com/in/marie-luise-schmidt-mls" target="_blank" style="color: gray;">LinkedIn</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
